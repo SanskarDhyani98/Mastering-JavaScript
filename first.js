@@ -13,3 +13,4 @@ for (let key in student) {
 // for (let i of str) console.log(i);
 let num = prompt("Enter no.");
 console.log(num ** 2);
+console.log(num * 2);
