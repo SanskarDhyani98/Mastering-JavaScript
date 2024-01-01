@@ -9,7 +9,7 @@ let student = {
 for (let key in student) {
   console.log(student.key);
 }
-let str = "sanskar";
-for (let i of str) console.log(i);
+// let str = "sanskar";
+// for (let i of str) console.log(i);
 let num = prompt("Enter no.");
 console.log(num);
