@@ -12,4 +12,4 @@ for (let key in student) {
 // let str = "sanskar";
 // for (let i of str) console.log(i);
 let num = prompt("Enter no.");
-console.log(num);
+console.log(num ** 2);
